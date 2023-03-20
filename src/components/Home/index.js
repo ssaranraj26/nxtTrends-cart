@@ -5,7 +5,7 @@ import './index.css'
 
 const Home = () => (
   <>
-    <h1>Hello Saran</h1>
+    <p>Hello...</p>
     <Header />
     <div className="home-container">
       <div className="home-content">
